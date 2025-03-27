@@ -1,0 +1,50 @@
+{
+  "name": "Jinwoo",
+  "version": "2.4.0",
+  "description": "The best Whatsapp bot",
+  "main": "index.js",
+  "engines": {
+      "node": ">= 21.x",
+      "npm": ">= 10.x"
+   },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Cyber Lord",
+  "license": "MIT",
+  "dependencies": {
+        "@whiskeysockets/baileys": "^6.7.16",
+        "@octokit/rest": "^21.1.0",
+        "acrcloud": "^1.4.0",
+        "awesome-phonenumber": "^7.2.0",
+        "axios": "^1.7.9",
+        "chalk": "^4.1.2",
+        "cheerio": "^1.0.0-rc.12",    
+        "check-disk-space": "^3.3.1",
+        "express": "^4.19.2",
+        "file-type": "^16.5.3",
+        "figlet": "^1.7.0",   
+        "fluent-ffmpeg": "^2.1.3", 
+        "form-data": "^4.0.0",
+        "google-tts-api": "^2.0.2",
+        "javascript-obfuscator": "^4.0.0",
+        "human-readable": "^0.2.1",
+        "https": "^1.0.0",
+        "jimp": "^0.16.13",
+        "lodash": "latest",
+        "lolcatjs": "^2.4.1",
+        "megajs": "^1.3.2",
+        "moment-timezone": "^0.5.45",
+        "node-cache": "^5.1.2",
+        "node-fetch": "^2.7.0",
+        "node-os-utils": "^1.3.6",
+        "node-webpmux": "^3.1.0",
+        "os": "^0.1.1",
+        "perf_hooks": "0.0.1",        
+        "performance-now": "^2.1.0",
+        "pino": "^8.14.1",
+        "steno": "^1.0.0",
+        "yargs": "^17.7.2",
+        "yt-search": "^2.10.4"
+  }
+}
