@@ -57,7 +57,7 @@ Click the button below to fork the JIN Bot repository to your GitHub account:
 
 ## `DEPLOYMENTS`
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fkingmalvn%2FJinwoo-bot) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fcyberlord-dev%2FJinwoo-bot) 
 
 💯 safe
     <a><img src='https://i.imgur.com/LyHic3i.gif'/>
