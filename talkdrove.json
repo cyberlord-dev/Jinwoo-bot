@@ -1,0 +1,52 @@
+  
+{
+    "bot-name": "Jinwoo-bot",
+    "description": "JINWOO made for people on Earth By Cyber Lord",
+    "logo": "https://files.catbox.moe/bqs70b.jpg",
+    "keywords": ["bot"],
+    "documentation-link": "https://cyber-pair-code-xzcb.onrender.com",
+    "owner-verification":"cyberlord127@gmail.com",
+  
+"env": {
+      "SESSION_ID": {
+        "description": "Put your SESSION_ID here. Make sure it starts with MALVIN-XD~, or get session id from here, https://github.com/kingmalvn/Jinwoo-bot",
+        "value":"",
+        "required": true
+        
+        },
+    "OWNER_NUMBER": {
+      "description": "Enter your number here, starting with country code E.g 2637xxxxxxxx",
+      "value": "",
+      "required": true
+    },
+    "OWNER_NAME": {
+      "description": "Enter your name here",
+      "value": "",
+      "required": true
+    },
+    "STICKER_PACK_NAME": {
+      "description": "Sticker pack name",
+      "value": "Jin",
+      "required": true
+    },
+    "STICKER_AUTHOR_NAME": {
+      "description": "Sticker author name",
+      "value": "Jinwoo",
+      "required": true
+ 
+    },
+    "TIMEZONE": {
+      "description": "Enter your timezone here. Google or don't edit if you don't know!",
+      "value": "Africa/Nairobi",
+      "required": false
+    },
+   "GITHUB_TOKEN": {
+  "description": "IMPORTANT: Follow these steps to generate your GitHub token correctly(Bot will not save settings without it!). Go to https://github.com/settings/tokens, select 'Tokens (classic)', then tap 'Generate new token' and select 'Generate new token (classic)'. Enter any note, choose 'No expiration', and under 'Select scopes', tick 'repo'. Scroll down, generate the token, and copy it. Paste it here. If using a single token for multiple bots, change the owner number to avoid settings mixups.",
+  "value": "",
+  "required": false
+        
+        
+      }
+    }
+  
+  }  
